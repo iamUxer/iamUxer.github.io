@@ -6,5 +6,4 @@
 
 <!-- * [JS30 : 01.Javascript Drum Kit](JS30/01%20-%20JavaScript%20Drum%20Kit/index-START.html) - 2018.11.05. Mon -->
 
-> 몇가지가있을까요
-> Array 관련 메서드 사용 방법 2
+> 몇 가지가 있을까요
